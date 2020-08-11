@@ -7,6 +7,10 @@ main{
 @media only screen and (max-width: 750px) {
 main{
   flex-wrap: wrap;
+  
+}
+.another-article{
+  margin-bottom: 100px;
 }
 }
 
